@@ -1,5 +1,5 @@
 # Image Search App
-  An Android app to search images on Pixabay  
+  An Android app to search images on Pixabay (education project)  
   Stack: MVI(Mosby)/Clean Architecture, RxJava/RxAndroid/RxBinding, Retrofit/Gson, Glide, Dagger, Android Architecture Components (Room, Navigation)
 
 <img src="screenshots/ezgif.com-video-to-gif.gif"
