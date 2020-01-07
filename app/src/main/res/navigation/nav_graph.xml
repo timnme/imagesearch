@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/imageSearchFragment">
+
+    <fragment
+        android:id="@+id/imageSearchFragment"
+        android:name="com.instacentner.instacentner.ui.imagesearch.ImageSearchFragment"
+        android:label="Image Search" />
+    <fragment
+        android:id="@+id/favouriteImagesFragment"
+        android:name="com.instacentner.instacentner.ui.favourites.FavouriteImagesFragment"
+        android:label="Favourite Images" />
+</navigation>
